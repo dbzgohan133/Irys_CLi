@@ -34,12 +34,13 @@ irys
 
 
 # Step 4 Fund Wallet 
+```
 irys fund 10000000000000000 \
 -n devnet \
 -t ethereum \
 -w WITHOUT_0x \
 --provider-url https://eth-sepolia.public.blastapi.io
-
+```
 Replace RPC_URL with your selected network: [https://sepolia.drpc.org](https://chainlist.org/chain/11155111)
 
 
